@@ -1,0 +1,143 @@
+.heading
+{
+	font-size:4vw;
+	text-align:center;
+	color:white;
+	padding:30px;
+}
+#first
+{
+	background-image:url("http://www.baltana.com/files/wallpapers-14/Feather-Background-HD-Wallpapers-36799.jpg");
+	max-width:100%
+	height:auto;
+	margin-bottom:10px;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
+#menu li {
+display: inline;
+margin: 10px;
+text-align: center;
+color:white;
+width:20%;
+   }
+h1
+{
+color:white;
+text-align:center;
+}
+
+#first a
+{
+color:white;
+}
+.intro
+{
+color:white;
+text-align:center;
+padding:10px;
+margin-left: 15em;
+margin-right: 15em;
+}
+.sign
+{
+padding:15px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+width:13vw;
+height:5vw;
+}
+
+.spl
+{
+padding-left:27vw;
+}
+h2
+{
+color:black;
+text-align:center;
+}
+h6
+{
+color:black;
+text-align:center;
+}
+#second
+{
+background-color:rgb(211,211,211);
+margin-bottom:10px;
+}
+#p{
+  float: left;
+  width: 33.33%;
+}
+
+
+#pic:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+#up
+{
+
+float: left;
+  width: 50%;
+}
+#one:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+#down
+{
+
+float: left;
+  width: 50%;
+}
+#two:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.cap
+{
+padding:10px;
+}
+#third
+{
+background-color:white;
+margin-bottom:10px;
+}
+.icon
+	{
+	width:7vw;
+	height:7vw;
+	border:0;
+	float:left;
+	padding:20px;
+	}
+.text
+{
+padding:10px;
+}
+
+@media only screen and (max-device-width: 600px) 
+{
+.first,.second,.third
+{
+width:100%;
+
+}
+}
+
+
+
+
+
+
+
+
